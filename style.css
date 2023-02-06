@@ -55,7 +55,7 @@ input[id^=trigger]:checked + .box {
     height: 16px;
     width: 16px;
     position: absolute;
-    right: 14%;
+    right: 15%;
     top: 37px;
 }
 .date-of-creation {
