@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "highlight.js": "^11.7.0",
+    "jquery-highlight": "^3.5.0"
+  }
+}
